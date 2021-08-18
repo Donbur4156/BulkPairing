@@ -1,0 +1,28 @@
+
+# PyCharm
+.idea/
+output/
+src/
+
+# Config
+config.*
+
+# json
+*.json
+
+# PIP Installer
+*pip.py
+
+# Chache
+__pycache__
+
+# Temp Files
+*.DS_Store
+*.tmp
+
+# Venv Enviroment
+venv
+venv/
+
+# VSCode
+.vscode/

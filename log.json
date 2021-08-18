@@ -1,0 +1,57 @@
+
+
+20210818 17:15:38 for ['LZ9SUURFHsh3ld9P:LATNi74fWzEUgIwR', 'Nw7YaT1JwrFkwi6J:V5z1zj1VBwQGOoyd']:
+{
+   "id": "aNsvpRCW",
+   "games": [
+      {
+         "id": "Y6YjN1rJ",
+         "white": "zeyecx",
+         "black": "don_test1"
+      },
+      {
+         "id": "2gYQ5wLa",
+         "white": "don_test2",
+         "black": "don_test3"
+      }
+   ],
+   "variant": "standard",
+   "clock": {
+      "limit": 600,
+      "increment": 5
+   },
+   "rated": false,
+   "pairAt": 1629299798000,
+   "startClocksAt": null,
+   "scheduledAt": 1629299739111,
+   "pairedAt": null,
+   "message": "Your Game {game} is ready!"
+}
+
+20210818 17:20:43 for ['LATNi74fWzEUgIwR:LZ9SUURFHsh3ld9P', 'V5z1zj1VBwQGOoyd:Nw7YaT1JwrFkwi6J']:
+{
+   "id": "Dd8WtYgw",
+   "games": [
+      {
+         "id": "RkFmkaGJ",
+         "white": "don_test1",
+         "black": "zeyecx"
+      },
+      {
+         "id": "jmjUL2h3",
+         "white": "don_test3",
+         "black": "don_test2"
+      }
+   ],
+   "variant": "standard",
+   "clock": {
+      "limit": 600,
+      "increment": 5
+   },
+   "rated": false,
+   "pairAt": 1629300103000,
+   "startClocksAt": null,
+   "scheduledAt": 1629300044543,
+   "pairedAt": null,
+   "message": "Your Game {game} is ready!"
+}
