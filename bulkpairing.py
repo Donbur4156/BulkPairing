@@ -81,8 +81,8 @@ def create_bulk():
     pairings_amount = int(input("How many Pairings you want to create?"))
     pairings = []
     while count < pairings_amount:
-        player1 = input(f"ID of the player with white for the {count+1} pairing:")
-        player2 = input(f"ID of the player with black for the {count+1} pairing:")
+        player1 = input(f"ID of the player with white for the {count+1}. pairing:")
+        player2 = input(f"ID of the player with black for the {count+1}. pairing:")
         pairing = [player1, player2]
         pairings.append(pairing)
         count += 1
